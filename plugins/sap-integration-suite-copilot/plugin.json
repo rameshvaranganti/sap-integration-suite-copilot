@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sap-integration-suite-copilot",
+  "description": "SAP Integration Suite Copilot: design, build, review and troubleshoot SAP BTP Integration Suite (CPI iFlows, Groovy, XSLT, adapters, API Management, Event Mesh, B2B/EDI, MCP and API-to-AI). Created by Rameshkumar Varanganti, agenticintegrationhub.com.",
+  "version": "1.0.0"
+}

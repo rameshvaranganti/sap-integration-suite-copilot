@@ -1,0 +1,23 @@
+{
+  "name": "agentic-integration-hub",
+  "owner": {
+    "name": "Rameshkumar Varanganti",
+    "url": "https://agenticintegrationhub.com/"
+  },
+  "metadata": {
+    "description": "SAP integration agents and skills by Rameshkumar Varanganti (agenticintegrationhub.com)",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "sap-integration-suite-copilot",
+      "source": "./plugins/sap-integration-suite-copilot",
+      "description": "SAP BTP Integration Suite expert agent: CPI iFlows, Groovy, XSLT, adapters, API Management, Event Mesh, B2B/EDI, MCP and API-to-AI.",
+      "version": "1.0.0",
+      "author": { "name": "Rameshkumar Varanganti", "url": "https://agenticintegrationhub.com/" },
+      "homepage": "https://agenticintegrationhub.com/",
+      "license": "MIT",
+      "keywords": ["sap", "cpi", "integration-suite", "btp", "groovy", "xslt", "iflow", "api-management", "event-mesh", "mcp"]
+    }
+  ]
+}
