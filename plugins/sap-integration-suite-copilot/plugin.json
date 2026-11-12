@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "sap-integration-suite-copilot",
-  "description": "SAP Integration Suite Copilot: design, build, review and troubleshoot SAP BTP Integration Suite (CPI iFlows, Groovy, XSLT, adapters, API Management, Event Mesh, B2B/EDI, MCP and API-to-AI).",
-  "version": "1.0.2",
+  "description": "SAP Integration Suite Copilot: SAP Cloud Integration (CPI) agent plus a runtime-knowledge skill covering Groovy script API, header/property scope across JMS and ProcessDirect, Exception Subprocess status, JMS retry and idempotency, and MPL error-to-root-cause mapping for SFTP, HTTP/OAuth, IDoc, OData, SOAP, AS2 and Cloud Connector.",
+  "version": "1.1.0",
   "author": {
     "name": "Rameshkumar Varanganti",
     "url": "https://agenticintegrationhub.com/"
