@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "SAP integration agents and skills by Rameshkumar Varanganti (agenticintegrationhub.com)",
-    "version": "1.1.4"
+    "version": "1.1.5"
   },
   "plugins": [
     {
       "name": "sap-integration-suite-copilot",
       "source": "./plugins/sap-integration-suite-copilot",
       "description": "SAP Cloud Integration (CPI) agent and skill: Groovy script API, header/property scope, Exception Subprocess status, JMS retry, and MPL error-to-root-cause mapping.",
-      "version": "1.1.4",
+      "version": "1.1.5",
       "author": {
         "name": "Rameshkumar Varanganti",
         "url": "https://agenticintegrationhub.com/"
